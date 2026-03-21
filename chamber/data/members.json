@@ -1,0 +1,72 @@
+[{
+    "name": "Investec",
+    "address": "100 Grayston Drive, Sandton",
+    "phoneNumber": "011 286 7000",
+    "websiteUrl": "investec.com",
+    "image": "investec.webp",
+    "email": "investecfd@investec.co.za",
+    "membershipLevel": 3
+    
+},
+
+{
+    "name": "MTN Group",
+    "address": "216 14th Avenue, Fairland, Gauteng, 2195",
+    "phoneNumber": "011 912 3000",
+    "websiteUrl": "mtn.com",
+    "image": "mtn.webp",
+    "email": "customercare@mtn.com",
+    "membershipLevel": 3
+},
+
+{
+    "name": "Oracle Corporation South Africa (Pty) Ltd",
+    "address": "54 Maxwell Dr, Woodmead, Midrand, 2191",
+    "phoneNumber": "011 319 4022",
+    "websiteUrl": "oracle.com",
+    "image": "oracle.webp",
+    "email": "contact@oracle.com",
+    "membershipLevel": 3
+},
+
+{
+    "name": "DVH Attorneys and Conveyancers",
+    "address": "19 Ondekkers Road,Witpoortjie, Roodepoort",
+    "phoneNumber": "011 279 5000",
+    "websiteUrl": "dvh.law.za",
+    "image": "dvh.webp",
+    "email": "hello@dvhlaw.co.za",
+    "membershipLevel": 2
+},
+
+{
+    "name": "Vodacom",
+    "address": "082 Vodacom Boulevard, Vodacom Valley, Midrrand, 1685 Johannesburg",
+    "phoneNumber": "066 567 2710",
+    "websiteUrl": "www.vodacom.co.za",
+    "image": "vodacom.webp",
+    "email": "custonercare@vodacom.co.za",
+    "membershipLevel": 1
+},
+
+{
+    "name": "KPMG",
+    "address": "85 Empire Rd, Parktown, Johannesburg, 2193",
+    "phoneNumber": "011 875 9876",
+    "websiteUrl": "kpmg.com",
+    "image": "kpmg.webp",
+    "email": "nationalriskmanagement@kpmg.co.za",
+    "membershipLevel": 2
+},
+
+{
+    "name": "WBHO Construction",
+    "address": "49 Andries St, wynberg, Sandton, 2090",
+    "phoneNumber": "011 321 7200",
+    "websiteUrl": "www.wbho.co.za",
+    "image": "wbho.webp",
+    "email": "wbhoho@wbho.co.za",
+    "membershipLevel": 1
+}
+
+]

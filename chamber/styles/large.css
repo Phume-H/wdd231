@@ -1,0 +1,87 @@
+@media (min-width: 768px) {
+    header, main, footer {
+        
+        margin: 0 auto;
+    }
+
+    header {
+        grid-template-columns: 44px  auto;
+    }
+
+    header img {
+        margin-left: 80px;
+    }
+
+    .hamburger {
+        display: none;
+
+    }
+
+    .navigation {
+        display: block;
+        border-bottom: solid 1px #003631;
+    }
+
+    .navigation ul {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        justify-content: space-around;
+    }
+
+    .navigation a {
+        border: none;
+    }
+
+    .grid-view {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .list-view .member-card {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+    }
+
+    .info-panels {
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        gap: 2rem;
+    }
+
+    .membership-cards {
+        grid-template-columns: 1fr;
+        position: absolute;
+        right: 10%;
+        top: 36%;
+        width: 30%;
+    }
+
+    .spotlight-view {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #spotlights {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    form {
+        margin: 3rem;
+    }
+
+    #allplaces {
+        display: grid; 
+        grid-template-columns: 1fr 1fr ;
+       
+    }
+
+    .footer {
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
