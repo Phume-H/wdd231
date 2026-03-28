@@ -70,9 +70,6 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
 
-    form {
-        margin: 3rem;
-    }
 
     #allplaces {
         display: grid; 
