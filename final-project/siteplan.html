@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Directory - Chamber of commerce</title>
-    <meta name="description" content="WDD231 - Chamber of Commerce">
+    <title>Sport Network - Site-plan </title>
+    <meta name="description" content="WDD231 - Sport Network">
     <meta name="author" content="Mpumelelo Hlongwane">
-    <link rel="icon" href="images/favicon.ico">
+    <link rel="icon" href="images/favicon1.ico">
 
     <!--google fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -14,63 +14,93 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
     
     <!--social meta tags-->
-    <meta property="og:title" content="Joburg Chamber of Commerce"/>
-    <meta property="og:description" content="Joburg chamber of commerce is a local organization of businesses that work together to strengthen the business interests of the group. The intent of a chamber of commerce is to foster networking and to advocate on the behalf of the community."/>
-    <meta property="og:url" content="https://Phume-H.github.io/wdd231/chamber/directory.html"/>
-    <meta property="og:image" content="https://Phume-H.github.io/wdd231/chamber/directory.html/images/img.png" />
+    <meta property="og:title" content="Sport Network"/>
+    <meta property="og:description" content="Our sports website is a dynamic hub for fans and athletes, delivering the latest news, live scores, in-depth analyses, and interactive features that celebrate the spirit of competition while fostering community engagement"/>
+    <meta property="og:url" content="https://Phume-H.github.io/wdd231/project-plan/index.html"/>
+    <meta property="og:image" content="https://Phume-H.github.io/wdd231/project-plan/index.html/images/img.png" />
     <meta property="og:type" content="website" />
-
-    <!--css and js links-->
-    <link rel="stylesheet" href="styles/normalize.css">
-    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/siteplan.css">
     <link rel="stylesheet" href="styles/large.css">
-    <script src="scripts/chamber.js" defer></script>
-</head>
 
+</head>
 <body>
     <header>
-        <img src="images/logo1.jpg" alt="chamber-logo" width="80" height="80">
-        <span>Joburg Chamber of Commerce</span>
+        <img src="images/sportslogo3.jpg" alt="Sport network-logo" class="logo" width="80" height="80">
+        <span>Sport Network</span>
         <button id="ham-btn" class="hamburger" title="hamburger-menu"></button>
-        
     </header>
+
     <nav id="nav-bar" class="navigation">
         <ul class="list">
                 <li><a href="index.html">Home</a></li>
-                <li class="current"><a href="discover.html">Discover</a></li>
-                <li><a href="directory.html">Directory</a></li>
-                <li><a href="join.html">Join</a></li>
+                <li class="current"><a href="#">Africa</a></li>
+                <li><a href="directory.html">South Africa</a></li>
+                <li><a href="join.html">Tech</a></li>
             </ul>
     </nav>
-
     <main>
-        <h1>Chamber Member Directory</h1>
+        <h1>Site Plan</h1>
+        <section>
+      <h2>Site Name</h2>
+      <p><strong>Sport Network</strong></p>
+      <p>Domain availability: <code>sportnetwork.com</code></p>
+    </section>
 
-        <section class="view-toggle">
-            <button id="gridBtn">Grid View</button>
-            <button id="listBtn">List View</button>
-        </section>
+    <section>
+      <h2>Site Purpose</h2>
+      <p>Providing a central hub where fans, athletes, and communities can access news, updates, and resources that inspire engagement and provide healthy competition.</p>
+    </section>
 
-        <section id="membersContainer" class="grid-view"></section>
+    <section>
+      <h2>Scenarios</h2>
+      <ul>
+        <li>What is happening in the world of sport?</li>
+        <li>What are the latest sport news globally?</li>
+        <li>What are the latest sport transfers having?</li>
+      </ul>
+    </section>
 
+    <section>
+      <h2>Color Schema</h2>
+      <ul>
+        <li><strong>#A6122D</strong> – Wine Red (used for headers and accents)</li>
+        <li><strong>#F0F0F0</strong> – Anti-Flash White (used for background and sections)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Typography</h2>
+      <ul>
+        <li><strong>'Merriweather'</strong> – used for headings (serif, earthy tone)</li>
+        <li><strong>'Open Sans'</strong> – used for body text (clean and readable)</li>
+      </ul>
+      <p>Both fonts will be loaded from Google Fonts.</p>
+    </section>
+
+    <section>
+      <h2>Wireframe</h2>
+      <h3>Mobile View</h3>
+      <img src="images/wireframe2.png" alt="Mobile wireframe layout">
+
+      <h3>Desktop View</h3>
+      <img src="images/wireframe.png" alt="Desktop wireframe layout">
+    </section>
         
     </main>
-
     <footer>
         <div class="footer">
         <p>
-            <span><strong>Joburg Chamber of Commerce</strong></span>
-            <span>23 Long Walk Rd Sandton, Johannesburg 7339</span>
-            <span>chamber@joburg.com</span>
-            <span>(064) 922 8922</span>
+            <span><strong>Sport Network</strong></span>
+            
         </p>
 
-        <p id="lastModified">Last Modified:</p>
+        
         <p>
-            <span>WDD231 Class Project</span>
-            <span id="currentyear"></span>
+            <span>WDD231 Final Project</span>
             Mpumelelo Hlongwane, South Africa
         </p>
+
+        <p>&copy; 2025 all rights reserved</p>
 
          <div class="social">
             <a href="https://www.linkedin.com"><svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="black" class="bi bi-linkedin" viewBox="0 0 16 16" aria-label="linkedin-link">
@@ -79,7 +109,7 @@
             <a href="Phume-H.github.io/wdd231"><svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="black" class="bi bi-github" viewBox="0 0 16 16" aria-label="github-link">
             <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
             </svg></a>
-            <a href="https://www.tiktok.com/"><svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="black" class="bi bi-tiktok" viewBox="0 0 16 16" aria-label="tiktok-link">
+            <a href="https://www.tiktok.com"><svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="black" class="bi bi-tiktok" viewBox="0 0 16 16" aria-label="tiktok-link">
             <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z"/>
             </svg></a>
         </div>
