@@ -1,0 +1,109 @@
+{
+  "south_african_sports": [
+    {
+      "title": "South Africa eyes $500m boost for sports academies",
+      "description": "Over 100 proposals were submitted to fund new cricket, rugby, and athletics academies across South Africa.",
+      "link": "https://www.reuters.com/sports/south-africa-500m-sports-academies-2025-10-09/",
+      "image_url": "https://www.reuters.com/resizer/5RWJ3VIZWVQ7TIPG74HG76TRUE.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Optasia invests in Johannesburg sports tech",
+      "description": "AI fintech Optasia announced plans to raise R6.3 billion to support sports analytics and fan engagement platforms.",
+      "link": "https://www.reuters.com/sports/optasia-invests-sports-tech-2025-10-08/",
+      "image_url": "https://www.reuters.com/resizer/NSRJTVQGLRIAJOIQJ4B7K6HRZ4.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Parliament approves new sports funding bill",
+      "description": "South Africa’s National Assembly passed legislation to expand funding for Olympic training and school sports programs.",
+      "link": "https://www.reuters.com/sports/south-africa-parliament-sports-funding-2025-07-23/",
+      "image_url": "https://www.reuters.com/resizer/FLT7WZUX35MI5BZKSRHBZP32X4.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Court clears Durban stadium expansion",
+      "description": "A ruling allowed Transnet to proceed with importing materials for Durban’s new multi-sport stadium project.",
+      "link": "https://www.reuters.com/sports/durban-stadium-expansion-2025-10-09/",
+      "image_url": "https://www.reuters.com/resizer/RKOUMW6CSNKHJG6UG2NOMIK7R4.jpg",
+      "code": "za"
+    },
+    {
+      "title": "EU pledges €11.5bn for South African sports",
+      "description": "The European Union committed billions to build swimming pools, athletics tracks, and football facilities in South Africa.",
+      "link": "https://www.reuters.com/sports/eu-pledges-south-africa-sports-2025-10-10/",
+      "image_url": "https://www.reuters.com/resizer/Yves_Herman_image.jpg",
+      "code": "za"
+    },
+    {
+      "title": "South African rugby participation hits record high",
+      "description": "Rugby clubs across South Africa reported the fastest growth in four years, driven by youth programs.",
+      "link": "https://www.reuters.com/sports/rugby/south-africa-participation-high-2025-06-04/",
+      "image_url": "https://www.reuters.com/resizer/business_image.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Cricket attendance stagnates in Q1",
+      "description": "South African cricket saw only 0.1% growth in attendance, with rural areas keeping the sport alive.",
+      "link": "https://www.reuters.com/sports/cricket/south-africa-attendance-2025-06-03/",
+      "image_url": "https://www.reuters.com/resizer/gdp_image.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Ramaphosa pushes national sports dialogue",
+      "description": "President Cyril Ramaphosa vowed to continue discussions on sports development despite political withdrawals.",
+      "link": "https://www.reuters.com/sports/south-africa-president-sports-dialogue-2025-07-04/",
+      "image_url": "https://www.reuters.com/resizer/ramaphosa_image.jpg",
+      "code": "za"
+    },
+    {
+      "title": "Namibia stun South Africa in T20",
+      "description": "Namibia pulled off a shock four-wicket win against South Africa in Windhoek, marking a historic upset.",
+      "link": "https://www.reuters.com/sports/cricket/namibia-stun-south-africa-2025-10-11/",
+      "image_url": "https://www.reuters.com/resizer/cricket_image.jpg"
+    },
+    {
+      "title": "Sports sponsorship market surges in Johannesburg",
+      "description": "Despite weak attendance figures, Johannesburg’s sports sponsorship market hit record highs in 2025.",
+      "link": "https://www.reuters.com/sports/south-africa-sponsorship-market-2025-09-15/",
+      "image_url": "https://www.reuters.com/resizer/markets_image.jpg",
+      "code": "za"
+    }
+  ],
+
+  "african_sports": [
+    {
+      "title": "Sudan stadium tragedy leaves 60 dead",
+      "description": "An attack struck a stadium in al-Fashir during a local football match, killing dozens of fans.",
+      "link": "https://www.reuters.com/sports/football/sudan-stadium-tragedy-2025-10-11/",
+      "image_url": "https://www.reuters.com/resizer/al_fashir_image.jpg"
+    },
+    {
+      "title": "Congo sports revival threatened by conflict",
+      "description": "Regional sports leagues in DR Congo face disruption due to rebel activity despite peace efforts.",
+      "link": "https://www.reuters.com/sports/congo-sports-revival-threatened-2025-07-23/",
+      "image_url": "https://www.reuters.com/resizer/rebel_image.jpg"
+    },
+    {
+      "title": "Africa launches $50bn sports initiative",
+      "description": "Leaders at Addis Ababa summit proposed raising $50 billion annually to support sports development across Africa.",
+      "link": "https://www.reuters.com/sports/africa-50bn-sports-initiative-2025-09-10/",
+      "image_url": "https://www.reuters.com/resizer/climate_image.jpg"
+    },
+    {
+      "title": "Mine tragedy halts community sports in Stilfontein",
+      "description": "A police siege at Stilfontein mine left 78 dead, forcing cancellation of local sports events.",
+      "link": "https://www.reuters.com/sports/stilfontein-mine-tragedy-sports-2025-01-16/",
+      "image_url": "https://www.reuters.com/resizer/mine_image.jpg"
+    }
+  ],
+
+  "international_sports": [
+    {
+      "title": "US shifts sports investment focus to Africa",
+      "description": "With tensions easing in Ukraine, the U.S. turned its attention to African sports leagues for expansion.",
+      "link": "https://www.reuters.com/sports/us-shifts-sports-investment-africa-2025-05-06/",
+      "image_url": "https://www.reuters.com/resizer/minerals_image.jpg"
+    }
+  ]
+}
